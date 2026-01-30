@@ -118,5 +118,3 @@ Heuristic = |3-5| + |3-5| = 4
 ## Final Notes
 
 Survivor-Bot demonstrates autonomous decision-making in a constrained environment, combining sensor fusion, heuristic search, and rule-based behavior to solve a dynamic survival problem.
-
-```
